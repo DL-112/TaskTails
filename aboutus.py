@@ -30,7 +30,7 @@ class Aboutus:
         wyh.pack()
 
         github = tk.Text(window, wrap="none", height=1, width=44, borderwidth=0, highlightthickness=0, fg=settings.fg_color, bg=settings.bg_color)
-        github.insert("1.0", "Github: https://github.com/DL-112/Task-Tails")
+        github.insert("1.0", "Github: https://github.com/DL-112/TaskTails")
         github.config(state='disabled')
         github.pack()
 
