@@ -1,0 +1,20 @@
+*Task-Tails program is designed for individuals 
+who struggle with excessive procrastination during studying.
+
+*Our program follows the Reward and Punishment method for 
+effective usage. Focus on studying during study sessions 
+and take breaks when it's time to rest. 
+The program temporarily blocks selected websites while the user is studying.
+
+*Before using the program, you need to specify 
+the websites you want to block under the "sites to be blocked" section.
+
+*To begin a study session, please click on the timer 
+located in the top right corner. It will track the study 
+and break times, and an alarm will notify you when each session is completed.
+Additionally, if you have urgent matters to attend to, 
+you can click the "pause button" to temporarily stop the timer.
+
+*To customize your username, theme, and timer settings, 
+please navigate to the settings menu. Once you have made 
+the desired changes, click the "apply changes" button to activate them.
